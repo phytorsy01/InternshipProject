@@ -1,0 +1,1 @@
+This is one of the projects I made during my Internship at TRT. It's an interactive collection of 3D web experiences built with Three.js, showcasing different aspects of 3D graphics programming and animation.
